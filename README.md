@@ -5,7 +5,7 @@
 
 I am passionate about software engineering, innovation, and persuing a position in the tech sector. My goals are to contribute to meaningful projects that have a large impact and pursue a career that combines my interests and talents. I’m big on continuously learning and building my skills, and believe taking initiative is key to growth. (Ask me about growing my technical skills and leadership as a Break Through Tech Fellow for Google and a Software Engineer at privacy-tech-lab!) <br>
 
-🛠 I am currently focusing on building a classifier that can identify phishing sites at launch time using clustering machine learning techniques as part of my senior thesis and on running a usability study for the political ad classifiers built as part of the The Cross-Platform Election Advertising Transparency Initiative (CREATIVE) project. Check out the code I've written for my thesis [https://gitlab.com/ajacewicz/similarity_phish_detect]. <br>
+🛠 I am currently focusing on building a classifier that can identify phishing sites at launch time using clustering machine learning techniques as part of my senior thesis and on running a usability study for the political ad classifiers built as part of the The Cross-Platform Election Advertising Transparency Initiative (CREATIVE) project. Check out the code I've written for my (thesis)[https://gitlab.com/ajacewicz/similarity_phish_detect]. <br>
 
 🎯 I’m looking to leverage and grow my skills through full time work begining after graduation in May 2025. I am hoping to contribute to exciting projects and learn from industry professionals. If you are interested in connecting or have any opportunities to discuss, please feel free to reach out! <br>
 
