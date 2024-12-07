@@ -14,8 +14,6 @@ Email: ajacewicz2003@gmail.com <br>
 LinkedIn: https://www.linkedin.com/in/aleksandra-jacewicz/ <br>
 <!--
 **a-jacewicz/a-jacewicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Visitor Count](https ://profile-counter.glitch.me/{a-jacewicz}/count.svg)
-
 
 
 Here are some ideas to get you started:
