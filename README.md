@@ -12,11 +12,9 @@ I am passionate about software engineering, innovation, and persuing a position 
 📫 How to Reach Me: <br>
 Email: ajacewicz2003@gmail.com <br>
 LinkedIn: https://www.linkedin.com/in/aleksandra-jacewicz/ <br>
-
-
-![Visitor Count](https ://profile-counter.glitch.me/{a-jacewicz}/count.svg)
 <!--
 **a-jacewicz/a-jacewicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Visitor Count](https ://profile-counter.glitch.me/{a-jacewicz}/count.svg)
 
 
 
