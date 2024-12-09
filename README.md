@@ -12,6 +12,9 @@ I am passionate about software engineering, innovation, and persuing a position 
 📫 How to Reach Me: <br>
 Email: ajacewicz2003@gmail.com <br>
 LinkedIn: https://www.linkedin.com/in/aleksandra-jacewicz/ <br>
+
+Check out my team's project repository for Youtube Viral Video View Prediction as part of our experience as AI fellows working with Google, [here](https://github.com/a-jacewicz/youtube-viral-video-forecasting/tree/main). 
+
 <!--
 **a-jacewicz/a-jacewicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
